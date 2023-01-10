@@ -181,6 +181,9 @@ body::before {
 }
 
 @media screen and (max-width: 576px) {
+  .profile_card{
+    border-radius: 30px;
+  }
   .profile-crad__info {
     gap: 20px;
   }
